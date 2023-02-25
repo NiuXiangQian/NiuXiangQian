@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @NiuXiangQian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java、Python、Go、Vue
+- 🌱 I’m currently learning DDD
+- 💞️ I’m looking for a partner to develop a system in DDD mode
+- 📫 How to reach me QQ:1603565290
 
-<!---
-NiuXiangQian/NiuXiangQian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/NiuXiangQian)
